@@ -1,0 +1,16 @@
+.jumbotron{
+	text-align: center;
+}
+
+.imagem{
+	height: 300px;
+	margin-top: 10px;
+	border-radius: 10px;
+	position: relative;
+}
+
+button{
+	border-color: #004085;
+	background-color: #fff;
+	color: #004085;
+}
