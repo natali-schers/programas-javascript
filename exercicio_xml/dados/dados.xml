@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<receita>
+    <contribuinte>
+        <cpf>111.111.111-11</cpf>
+        <rg>11.111.111-1</rg>
+        <nome>Anna Alicia</nome>
+        <data_nascimento>01/01/2001</data_nascimento>
+        <endereco>
+            <logradouro>Rua da Anna Alicia</logradouro>
+            <numero>111</numero>
+            <bairro>Parque da Anna Alicia</bairro>
+            <cep>11111-111</cep>
+            <cidade>Mauá</cidade>
+            <estado>SP</estado>
+        </endereco>
+        <contato>
+            <telefone>(11)1111-1111</telefone>
+            <celular>(11)11111-1111</celular>
+            <email>annaalicia@gmail.com</email>
+        </contato>
+        <renda>1.100,00</renda>
+        <foto>https://robohash.org/OTB.png?set=set1</foto>
+        <conta>
+            <ag>111-1</ag>
+            <cc>111111-1</cc>
+        </conta>
+    </contribuinte>
+    <contribuinte>
+        <cpf>222.222.222-22</cpf>
+        <rg>22.222.222-2</rg>
+        <nome>Barry Bennet</nome>
+        <data_nascimento>02/02/2002</data_nascimento>
+        <endereco>
+            <logradouro>Rua do Barry Bennet</logradouro>
+            <numero>222</numero>
+            <bairro>Parque do Barry Bennet</bairro>
+            <cep>22222-222</cep>
+            <cidade>Mauá</cidade>
+            <estado>SP</estado>
+        </endereco>
+        <contato>
+            <telefone>(22)2222-2222</telefone>
+            <celular>(22)22222-2222</celular>
+            <email>barrybennet@gmail.com</email>
+        </contato>
+        <renda>2.200,00</renda>
+        <foto>https://robohash.org/9EO.png?set=set1</foto>
+        <conta>
+            <ag>222-2</ag>
+            <cc>222222-2</cc>
+        </conta>
+    </contribuinte>
+    <contribuinte>
+        <cpf>333.333.333-33</cpf>
+        <rg>33.333.333-3</rg>
+        <nome>Carlos Cehro</nome>
+        <data_nascimento>03/03/2003</data_nascimento>
+        <endereco>
+            <logradouro>Rua do Carlos Cehro</logradouro>
+            <numero>333</numero>
+            <bairro>Parque do Carlos Cehro</bairro>
+            <cep>33333-333</cep>
+            <cidade>Mauá</cidade>
+            <estado>SP</estado>
+        </endereco>
+        <contato>
+            <telefone>(33)3333-3333</telefone>
+            <celular>(33)33333-3333</celular>
+            <email>carloscehro@gmail.com</email>
+        </contato>
+        <renda>3.300,00</renda>
+        <foto>https://robohash.org/R43.png?set=set1</foto>
+        <conta>
+            <ag>333-3</ag>
+            <cc>333333-3</cc>
+        </conta>
+    </contribuinte>
+    <contribuinte>
+        <cpf>444.444.444-44</cpf>
+        <rg>44.444.444-4</rg>
+        <nome>Dalila Davinni</nome>
+        <data_nascimento>04/04/2004</data_nascimento>
+        <endereco>
+            <logradouro>Rua da Dalila Davinni</logradouro>
+            <numero>444</numero>
+            <bairro>Parque da Dalila Davinni</bairro>
+            <cep>44444-444</cep>
+            <cidade>Mauá</cidade>
+            <estado>SP</estado>
+        </endereco>
+        <contato>
+            <telefone>(44)4444-4444</telefone>
+            <celular>(44)44444-4444</celular>
+            <email>daliladavinni@gmail.com</email>
+        </contato>
+        <renda>4.400,00</renda>
+        <foto>https://robohash.org/VJ9.png?set=set1</foto>
+        <conta>
+            <ag>444-4</ag>
+            <cc>444444-4</cc>
+        </conta>
+    </contribuinte>
+     <contribuinte>
+        <cpf>555.555.555-55</cpf>
+        <rg>55.555.555-5</rg>
+        <nome>Erick Euder</nome>
+        <data_nascimento>05/05/2005</data_nascimento>
+        <endereco>
+            <logradouro>Rua do Erick Euder</logradouro>
+            <numero>555</numero>
+            <bairro>Parque do Erick Euder</bairro>
+            <cep>55555-555</cep>
+            <cidade>Mauá</cidade>
+            <estado>SP</estado>
+        </endereco>
+        <contato>
+            <telefone>(55)5555-5555</telefone>
+            <celular>(55)55555-5555</celular>
+            <email>erickeuder@gmail.com</email>
+        </contato>
+        <renda>5.500,00</renda>
+        <foto>https://robohash.org/UO4.png?set=set1</foto>
+        <conta>
+            <ag>555-5</ag>
+            <cc>555555-5</cc>
+        </conta>
+    </contribuinte>
+</receita>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lista>
+	<cliente>
+		<nome>Natali</nome>
+		<idade>16</idade>
+	</cliente>
+	<cliente>
+		<nome>Nick</nome>
+		<idade>18</idade>
+	</cliente>
+	<cliente>
+		<nome>Leonardo</nome>
+		<idade>8</idade>
+	</cliente>
+</lista>
