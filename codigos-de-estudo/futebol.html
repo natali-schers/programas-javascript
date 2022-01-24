@@ -1,0 +1,29 @@
+<meta charset="utf-8">
+
+<script type="text/javascript">
+    function pulaLinha() {
+        document.write("<br>");
+    }
+
+    function mostra(frase) {
+        document.write(frase);
+        pulaLinha();
+    }
+
+    var vitorias = parseInt(prompt("Informe o número de vitórias: "));
+    var empates = parseInt(prompt("Informe o número de empates: "));
+    var pontos = vitorias * 3 + empates;
+
+    mostra("A pontuação final foi de: " + pontos + " pontos.")
+    if (pontos > 28) {
+        mostra("O desempenho do seu time melhorou!");
+    } 
+
+    if (pontos < 28) {
+        mostra("O desempenho de seu time piorou!");
+    }
+   
+    if (pontos == 28) {
+        mostra("O desempenho continua igual.")
+    }
+</script>
